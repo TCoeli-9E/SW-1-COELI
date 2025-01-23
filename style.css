@@ -1,0 +1,17 @@
+body{
+	background-color: #D2D68D;
+	text-align: center;
+	align-content: center;
+}
+
+
+.container{
+	border-color: #68534D;
+	border-style: solid;
+	background-color: #81726A;
+	width: 100%;
+}
+
+button{
+	background-color: #D9F9A5;
+}
